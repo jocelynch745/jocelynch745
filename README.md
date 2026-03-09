@@ -18,10 +18,10 @@ I am a Data Scientist-in-training with a strong foundation in statistical modeli
 
 ### 📊 Featured Projects
 
-#### 🚀 [Project Name: Predictive Modeling for Market Trends](link-to-repo)
-* **Problem**: Built a predictive model to forecast [specific metric] using a dataset of 500k+ rows.
-* **Stack**: Python, Scikit-learn, AWS S3.
-* **Outcome**: Improved prediction accuracy by 15% compared to the baseline model using Random Forest Regressor.
+#### 🚀 [Telco Churn Prediction](https://github.com/jocelynch745/TelcoCustomerChurn)
+* **Problem**: 
+* **Stack**: 
+* **Outcome**: 
 
 #### 📈 [Data Governance Scraper & Analyzer](link-to-repo)
 * **Problem**: Automated the collection and analysis of data privacy tools to identify market gaps.
