@@ -29,10 +29,9 @@ I am a Data Scientist-in-training with a strong foundation in statistical modeli
 * **Outcome**: Generated a comprehensive database of 50+ tools with automated feature comparison.
 
 #### 🏸 [Elite Rally Business Analytics](https://github.com/jocelynch745/Elite-Rally-Pricing-Analysis)
-* **Problem**: Optimized attendance for a badminton club through customer habit analysis.
-* **Stack**: R, SQL, Tableau.
-* **Outcome**: Increased off-peak attendance by 20% through targeted data-driven marketing campaigns.
-
+* **Problem**: Analyzed a weekday pricing strategy to improve non-peak court utilization at a badminton club.
+* **Stack**: SQL, Python, pandas, seaborn.
+* **Outcome**: Showed that reduced 12:00–18:00 pricing was associated with higher afternoon attendance and stronger revenue performance.
 ---
 
 ### 📫 How to reach me:
