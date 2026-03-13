@@ -31,7 +31,7 @@ I am a Data Scientist-in-training with a strong foundation in statistical modeli
 #### 🏸 [Elite Rally Business Analytics](https://github.com/jocelynch745/Elite-Rally-Pricing-Analysis)
 * **Problem**: Analyzed a weekday pricing strategy to improve non-peak court utilization at a badminton club.
 * **Stack**: SQL, Python, pandas, seaborn.
-* **Outcome**: Showed that reduced 12:00–18:00 pricing was associated with higher afternoon attendance and stronger revenue performance.
+* **Outcome**: In a synthetic business scenario, reducing weekday 12:00–18:00 pricing increased afternoon attendance by 61.3% and afternoon revenue by 39.8%.
 ---
 
 ### 📫 How to reach me:
