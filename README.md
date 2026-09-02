@@ -36,5 +36,4 @@ I am a Data Scientist-in-training with a strong foundation in statistical modeli
 
 ### 📫 How to reach me:
 - **Email**: [jocelynch745@gmail.com]
-- **LinkedIn**: [
-www.linkedin.com/in/jocelyn-chow-3881b03a6]
+- **LinkedIn**: [www.linkedin.com/in/jocelynchow-data]
