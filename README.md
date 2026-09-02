@@ -36,11 +36,5 @@ I am a Data Scientist-in-training with a strong foundation in statistical modeli
 
 ### 📫 How to reach me:
 - **Email**: [jocelynch745@gmail.com]
-- **LinkedIn**: []
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUsername]&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+- **LinkedIn**: [
+www.linkedin.com/in/jocelyn-chow-3881b03a6]
