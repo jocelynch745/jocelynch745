@@ -18,10 +18,10 @@ I am a Data Scientist-in-training with a strong foundation in statistical modeli
 
 ### 📊 Featured Projects
 
-#### 🚀 [Telco Churn Prediction](https://github.com/jocelynch745/TelcoCustomerChurn)
-* **Problem**: 
-* **Stack**: 
-* **Outcome**: 
+#### 🍷 [White Wine Quality Regression Analysis](https://github.com/jocelynch745/WhiteWineQualityRegression)
+* **Problem**: Investigated which physicochemical features are most strongly associated with white wine quality ratings.
+* **Stack**: R, Linear Regression, AIC-Based Model Selection, Bootstrap, Model Diagnostics.
+* **Outcome**: Reduced the model from 11 to 8 predictors while improving AIC from 11113.48 to 11108.29 and identified alcohol, volatile acidity, and density as the strongest quality-related features.
 
 #### 📈 [Data Governance Scraper & Analyzer](link-to-repo)
 * **Problem**: Automated the collection and analysis of data privacy tools to identify market gaps.
