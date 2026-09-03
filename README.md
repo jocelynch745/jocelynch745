@@ -28,10 +28,10 @@ I am a Data Scientist-in-training with a strong foundation in statistical modeli
 * **Stack**: R, tidyverse, caret, Logistic Regression, Classification Tree, Random Forest, ROC-AUC.
 * **Outcome**: Selected Random Forest at a 0.20 threshold, achieving the highest balanced accuracy of 58.5% and sensitivity of 27.2% while maintaining 89.9% specificity.
 
-#### 📈 [Data Governance Scraper & Analyzer](link-to-repo)
-* **Problem**: Automated the collection and analysis of data privacy tools to identify market gaps.
-* **Stack**: Python, Pandas, BeautifulSoup.
-* **Outcome**: Generated a comprehensive database of 50+ tools with automated feature comparison.
+#### 🧬 [Genome-Wide eQTL Analysis](https://github.com/jocelynch745/gwas-eqtl-analysis)
+* **Problem**: Identified genetic variants associated with five gene-expression phenotypes using data from 344 individuals and 50,000 SNPs.
+* **Stack**: R, Linear Regression, Genotype QC, Covariate Adjustment, Bonferroni Correction, QQ Plots, Manhattan Plots.
+* **Outcome**: Evaluated 250,000 SNP-gene associations and identified three significant local eQTL signals near ERAP2, PEX6, and FAHD1.
 
 #### 🍷 [White Wine Quality Regression Analysis](https://github.com/jocelynch745/WhiteWineQualityRegression)
 * **Problem**: Investigated which physicochemical features are most strongly associated with white wine quality ratings.
